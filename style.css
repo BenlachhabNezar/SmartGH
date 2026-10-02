@@ -120,6 +120,38 @@ header nav ul li a:hover {
         opacity: 0;
     }
 }
+.box-text {
+    width: 50%;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #fdf0d5;
+}
+
+.btn-type {
+    width: 30%;
+    margin-left: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: #3866418f;
+    margin-top: 20px;
+    border-radius: 25px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.btn-type a {
+    text-decoration: none;
+    color: #ccc;
+
+}
+
+.btn-type:hover {
+    background-color: #6a994e96;
+    transform: scale(1.2);
+}
+
 
 
 
