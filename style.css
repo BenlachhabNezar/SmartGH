@@ -152,6 +152,27 @@ header nav ul li a:hover {
     transform: scale(1.2);
 }
 
+footer {
+    position: relative;
+    width: 100%;
+    height: 80px;
+    padding: 0 5%;
+    z-index: 10;
+    background-color: rgba(0, 0, 0, 0.461);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
 
+footer p {
+    font-size: 16px;
+}
+
+footer p:hover {
+    color: #edede9;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    transform: scale(1.1);
+}
 
 
