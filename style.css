@@ -64,5 +64,14 @@ header nav ul li a:hover {
     border-radius: 40px;
 }
 
+.T-types {
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+    background-color: #44444490;
+    padding: 6px 15px;
+    border-radius: 90px;
+}
 
 
